@@ -1,4 +1,3 @@
-# Business-Analytics-Tasks
 # Product Price and Revenue Analysis
 ## Project Overview
 

@@ -1,5 +1,6 @@
 # Product Price and Revenue Analysis
-## Project Overview
+
+## Overview
 
 This project demonstrates how data analytics can help businesses make informed pricing decisions. Using Python, Pandas, and Matplotlib, the sales data of a juice shop is analyzed to determine which selling price generates the highest revenue. The project performs data manipulation, revenue calculations, visualization, and business analysis to identify the most profitable pricing strategy.
 

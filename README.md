@@ -117,6 +117,29 @@ To create an interactive Tableau dashboard that visually presents important busi
 
 The dashboard provides an interactive way to explore the dataset and understand restaurant business trends through charts and visualizations.
 
+## 📈 Task 4 – Tableau Dashboard
+
+### Objective
+
+To develop an interactive Tableau dashboard for analyzing Amazon product and sales data. The dashboard presents key business insights related to product categories, customer reviews, ratings, pricing, and discounts through interactive visualizations.
+
+### Dashboard Includes
+
+- 📊 Average rating by product category
+- 💰 Average discount offered by product category
+- ⭐ Average discounted price by product rating
+- 🗣️ Product categories by customer reviews
+- 📦 Original price vs. discounted price distribution
+- 📈 Pricing and discount trends across product categories
+
+### Tableau Dashboard
+
+🔗 **View the interactive Tableau Dashboard:**
+
+[View Tableau Dashboard](https://public.tableau.com/app/profile/lakshanyawanti.b/viz/task4_17859502551940/Dashboard1)
+
+The dashboard enables users to explore Amazon product performance and identify patterns in customer reviews, ratings, pricing, and discounts across different product categories.
+
 ---
 
 ## 🎯 Final Conclusion

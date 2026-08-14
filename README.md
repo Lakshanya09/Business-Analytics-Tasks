@@ -140,6 +140,22 @@ To develop an interactive Tableau dashboard for analyzing Amazon product and sal
 
 The dashboard enables users to explore Amazon product performance and identify patterns in customer reviews, ratings, pricing, and discounts across different product categories.
 
+## 📊 Task 5 – Tableau Business Analysis
+### Objective
+
+To analyze a real-world business dataset using Tableau and understand the distribution of business data across different categories using appropriate visualizations, including a Box Plot.
+
+### Dashboard Includes
+🏙️ Restaurant distribution by city
+🗺️ Geographic distribution of restaurants across India
+⭐ Rating distribution across different price ranges using a Box Plot
+📈 Establishment-wise rating analysis
+Tableau Dashboard
+
+🔗 View the interactive Tableau Dashboard: <https://public.tableau.com/app/profile/lakshanyawanti.b/viz/task5_17866443306440/Dashboard1?publish=yes>
+
+The dashboard provides a visual analysis of restaurant business data, highlighting city-wise distribution, geographical presence, price-wise rating distribution, and establishment ratings. The Box Plot helps compare the spread and distribution of restaurant ratings across different price ranges.
+
 ---
 
 ## 🎯 Final Conclusion

@@ -158,6 +158,37 @@ The dashboard provides a visual analysis of restaurant business data, highlighti
 
 ---
 
+---
+
+## 📊 Task 6 – Tableau Business Trend Analysis
+
+### Objective
+
+To analyze sales and profit trends over time using Tableau Public and identify key business insights.
+
+### Dashboard Includes
+
+- 📈 Monthly Sales Trend using an Area Chart
+- 📊 Profit by Region
+- 📈 Monthly Profit Trend
+- 🟦 Sales by Region & Category
+
+### Key Insights
+
+- November recorded the highest monthly sales.
+- February had comparatively lower sales.
+- Sales and profit fluctuated throughout the year.
+- West Region generated the highest profit.
+
+### Tableau Dashboard
+
+🔗 **View the interactive Tableau Dashboard:**  
+https://public.tableau.com/app/profile/lakshanyawanti.b/viz/TASK6_17878992421170/Dashboard1
+
+The dashboard highlights important sales and profit trends and helps identify high-performing periods and regions.
+
+---
+
 ## 🎯 Final Conclusion
 
 Through this project, I applied **Python-based data analysis and Tableau visualization techniques** to transform raw business data into meaningful insights.

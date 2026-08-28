@@ -12,6 +12,7 @@ This project focuses on analyzing business data using **Python, Pandas, Matplotl
 * Tableau
 * Jupyter Notebook
 * GitHub
+* Kaggle
 
 ---
 

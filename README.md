@@ -190,6 +190,33 @@ The dashboard highlights important sales and profit trends and helps identify hi
 
 ---
 
+## Task 7 - Business Trend Analysis using Scatter Plot in Tableau
+
+### Objective
+Analyze business performance using an Scatter Plot in Tableau and identify important trends and changes that can support business decision-making.
+
+### Dashboard Includes
+
+📊 Quantity vs Profit using a Scatter Plot
+
+📈 Monthly Sales using a Line Chart
+
+📊 Sales by Subcategory using a Horizontal Bar Chart
+
+🔴 Sales by Category using a Pie Chart
+
+
+### Key Insights
+
+November recorded the highest monthly sales.
+Technology generated the highest category sales.
+Office Supplies had the lowest category sales.
+Profit varies across different quantity levels and categories.
+
+### Tableau Dashboard 
+
+Link to dashboard: https://public.tableau.com/authoring/Lakshhh/Dashboard1#1
+
 ## 🎯 Final Conclusion
 
 Through this project, I applied **Python-based data analysis and Tableau visualization techniques** to transform raw business data into meaningful insights.

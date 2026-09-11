@@ -217,6 +217,28 @@ Profit varies across different quantity levels and categories.
 
 Link to dashboard: https://public.tableau.com/authoring/Lakshhh/Dashboard1#1
 
+## 📊 Task 8 – Business Category Analysis using Tree Map in Tableau
+### Objective
+Analyze the contribution of different business categories using a Tree Map in Tableau and identify the categories that have the greatest impact on business performance.
+
+### Dashboard Includes
+📈 Monthly Sales Trend using an Area Chart
+📊 Profit by Region
+📈 Monthly Profit Trend
+🟦 Sales by Region & Category using TREEMAP
+
+### Key Insights
+November recorded the highest monthly sales.
+February had comparatively lower sales.
+Sales and profit fluctuated throughout the year.
+West Region generated the highest profit.
+
+### Tableau Dashboard
+🔗 View the interactive Tableau Dashboard:
+](https://public.tableau.com/app/profile/lakshanyawanti.b/viz/TASK8_17891020760960/Dashboard1)
+
+The dashboard highlights important sales and profit trends and helps identify high-performing periods and regions.
+
 ## 🎯 Final Conclusion
 
 Through this project, I applied **Python-based data analysis and Tableau visualization techniques** to transform raw business data into meaningful insights.

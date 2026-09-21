@@ -239,6 +239,34 @@ West Region generated the highest profit.
 
 The dashboard highlights important sales and profit trends and helps identify high-performing periods and regions.
 
+## Task 9 – Business Trend Analysis using Line Graph in Tableau
+
+### Objective
+
+Analyze product pricing, ratings, and discount patterns across different product categories using Tableau and identify important business trends.
+
+### Dashboard Includes
+
+📈 Average Discounted Price by Product Rating using a **Line Chart**  
+📊 Average Rating by Product Category  
+📊 Average Discount Offered by Category  
+📊 Original Price vs Discounted Price Distribution
+
+### Key Insights
+
+- Product ratings show noticeable variation in average discounted prices.
+- **Laptop** recorded the highest discount offered among the categories.
+- **Phones** also showed a comparatively high discount level.
+- Laptop products had the widest **original and discounted price distribution**.
+- The dashboard helps compare pricing, ratings, and discount patterns across product categories.
+
+### Tableau Dashboard
+
+🔗 View the interactive Tableau Dashboard:  
+[Task 9 – Business Trend Analysis](https://public.tableau.com/app/profile/lakshanyawanti.b/viz/Task9_17899608068010/Dashboard1?utm_source=chatgpt.com)
+
+The dashboard provides a visual overview of product pricing, ratings, and discount trends, helping identify differences in business performance across categories.
+
 ## 🎯 Final Conclusion
 
 Through this project, I applied **Python-based data analysis and Tableau visualization techniques** to transform raw business data into meaningful insights.

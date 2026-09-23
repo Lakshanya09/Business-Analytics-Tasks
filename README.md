@@ -267,6 +267,33 @@ Analyze product pricing, ratings, and discount patterns across different product
 
 The dashboard provides a visual overview of product pricing, ratings, and discount trends, helping identify differences in business performance across categories.
 
+## 📊 Task 10 – Business Analysis using Heat Map
+
+### Objective
+
+To analyze business performance using different visualization techniques in Tableau and identify patterns across cities, cuisines, and delivery ratings.
+
+### Dashboard Includes
+
+- 🟦 **Cuisine Distribution** using a Tree Map
+- 📊 **Delivery Rating by City** using a Bar Chart
+- 🟥 **City & Cuisine Analysis** using a Heat Map
+- 🥧 **Business Distribution** using a Pie Chart
+
+### Key Insights
+
+- Beverages occupies the largest portion of the Tree Map.
+- Hyderabad shows a high delivery rating compared with several other cities.
+- The Heat Map highlights variations in cuisine availability across different cities.
+- The Pie Chart provides an overall view of business distribution.
+
+### Tableau Dashboard
+
+🔗 **View the interactive Tableau Dashboard:**  
+[https://public.tableau.com/app/profile/lakshanyawanti.b/viz/TASK10_17901387150730/Dashboard1](https://public.tableau.com/app/profile/lakshanyawanti.b/viz/TASK10_17901387150730/Dashboard1)
+
+The dashboard provides a visual overview of business patterns and helps compare cities, cuisines, and delivery-related performance.
+
 ## 🎯 Final Conclusion
 
 Through this project, I applied **Python-based data analysis and Tableau visualization techniques** to transform raw business data into meaningful insights.

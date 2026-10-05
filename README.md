@@ -292,7 +292,39 @@ To analyze business performance using different visualization techniques in Tabl
 🔗 **View the interactive Tableau Dashboard:**  
 [https://public.tableau.com/app/profile/lakshanyawanti.b/viz/TASK10_17901387150730/Dashboard1](https://public.tableau.com/app/profile/lakshanyawanti.b/viz/TASK10_17901387150730/Dashboard1)
 
-The dashboard provides a visual overview of business patterns and helps compare cities, cuisines, and delivery-related performance.
+The dashboard provides a visual overview of business patterns and helps compare cities, cuisines, and delivery-related performance.Of course bro 😭🤍 Based on your **Task 11 dashboard**, you can write it like this:
+
+## 📊 Task 11 – Business Trend Analysis using Bubble Chart
+
+### Objective
+
+To analyze and compare different business categories using a Bubble Chart and identify the most and least significant business categories based on sales performance.
+
+### Problem Statement
+
+Choose a business-related dataset containing categorical data and numerical measures such as Sales, Revenue, Profit, Quantity, Orders, or Customers. Use Tableau Public to create a Bubble Chart and identify the most and least significant business categories.
+
+### Dashboard Includes
+
+- 📈 **Monthly Sales Trend** using an Area Chart
+- 📊 **Monthly Profit Trend** using a Line Chart
+- 🫧 **Sales by Region & Category** using a Bubble Chart
+
+### Key Insights
+
+- 🫧 **Technology** and **Furniture** show significant sales across several regions.
+- 🏆 **Technology – West** represents one of the largest bubbles, indicating strong sales performance.
+- 📈 Monthly sales reach their highest level around **November**, while February records one of the lowest sales levels.
+- 💰 Monthly profit shows an increasing trend toward the end of the year, with **December** recording the highest profit.
+- 🌍 The Bubble Chart helps compare sales performance across different **regions and business categories**.
+
+### Tableau Dashboard
+
+🔗 **View the interactive Tableau Dashboard:**  
+[https://public.tableau.com/app/profile/lakshanyawanti.b/viz/task11_17911765180100/Dashboard1]
+
+The dashboard provides a visual overview of **sales, profit, regional performance, and category-wise business trends**, helping identify the strongest and weakest areas of the business.
+
 
 ## 🎯 Final Conclusion
 

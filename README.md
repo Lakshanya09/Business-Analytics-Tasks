@@ -325,6 +325,29 @@ Choose a business-related dataset containing categorical data and numerical meas
 
 The dashboard provides a visual overview of **sales, profit, regional performance, and category-wise business trends**, helping identify the strongest and weakest areas of the business.
 
+## 📊 Task12 - 
+### Objective:
+Analyze the given dataset using Tableau Public and identify meaningful business insights without being given specific questions or charts.
+
+### 🔗 Tableau Dashboard: https://public.tableau.com/app/profile/lakshanyawanti.b/viz/task12_17911790596940/Dashboard1
+### Tableau Dashboard Screenshot:
+<img width="1329" height="736" alt="image" src="https://github.com/user-attachments/assets/7c1fd52e-f4d8-4d19-ad72-4c3f5cc197d3" />
+
+
+### 3 Key Findings
+
+1. Laptops have the highest spending, making them the most costly item category.
+2. TechMart Inc. has the highest supplier spending at approximately 328,762, followed by QuickDeliver Ltd.
+3. Spending fluctuates throughout the year, with the highest spending in September (125,187) and the lowest in July (76,056).
+
+### 2 Suggestions / Recommendations
+
+1. Negotiate better prices with major suppliers, especially TechMart Inc., and compare alternative suppliers.
+2. Monitor high-cost items such as laptops and software licenses and plan purchases carefully to control expenses.
+
+### Overall Conclusion
+
+The analysis shows that a few high-cost items and suppliers contribute significantly to overall spending. Better supplier negotiation and careful planning of major purchases can help reduce costs and improve spending efficiency.
 
 ## 🎯 Final Conclusion
 

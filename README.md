@@ -329,9 +329,10 @@ The dashboard provides a visual overview of **sales, profit, regional performanc
 ### Objective:
 Analyze the given dataset using Tableau Public and identify meaningful business insights without being given specific questions or charts.
 
-### 🔗 Tableau Dashboard: https://public.tableau.com/app/profile/lakshanyawanti.b/viz/task12_17911790596940/Dashboard1
+### 🔗 Tableau Dashboard: [https://public.tableau.com/app/profile/lakshanyawanti.b/viz/task12_17911790596940/Dashboard1](https://public.tableau.com/app/profile/lakshanyawanti.b/viz/task12_17911790596940/Dashboard1)
 ### Tableau Dashboard Screenshot:
-<img width="1329" height="736" alt="image" src="https://github.com/user-attachments/assets/7c1fd52e-f4d8-4d19-ad72-4c3f5cc197d3" />
+<img <img width="1246" height="740" alt="image" src="https://github.com/user-attachments/assets/d7ffd5c5-74a4-4c63-a37e-ff4be68c84c0" />
+" />
 
 
 ### 3 Key Findings

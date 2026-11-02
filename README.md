@@ -350,6 +350,37 @@ Analyze the given dataset using Tableau Public and identify meaningful business 
 
 The analysis shows that a few high-cost items and suppliers contribute significantly to overall spending. Better supplier negotiation and careful planning of major purchases can help reduce costs and improve spending efficiency.
 
+## TASK 13
+### Objective:
+Analyze the any dataset using Tableau Public and identify meaningful business insights without being given specific questions or charts.
+
+### Tableau Dashboard Link:
+https://public.tableau.com/views/task13_17936018220490/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+### 1. Key Findings
+
+- Chennai has the highest number of restaurants.
+- Mumbai and Bangalore follow.
+- Higher-priced restaurants generally have better ratings.
+- Casual Dining and Quick Bites have high aggregate ratings.
+
+### 2. Conclusion
+
+Restaurant distribution, pricing and ratings vary across cities and establishment types. Chennai is the leading restaurant market.
+
+### 3. Suggestions
+
+- Improve food quality and customer service.
+- Encourage customer feedback.
+- Offer affordable pricing.
+- Improve low-rated restaurants.
+
+### 4. Recommendations
+
+- Focus on major cities like Chennai and Mumbai.
+- Maintain consistent food quality.
+- Explore opportunities in cities with fewer restaurants.
+
 ## 🎯 Final Conclusion
 
 Through this project, I applied **Python-based data analysis and Tableau visualization techniques** to transform raw business data into meaningful insights.

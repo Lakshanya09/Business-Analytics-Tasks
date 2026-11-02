@@ -395,7 +395,7 @@ https://public.tableau.com/views/task14_17936024876030/Dashboard1?:language=en-G
 - Encourage customer feedback.
 - Focus on major cities like Chennai and Mumbai.
   
-### 2. Overall Conclusion
+### 3. Overall Conclusion
 
 Restaurant distribution, pricing and ratings vary across cities and establishment types. Chennai is the leading restaurant market.
 

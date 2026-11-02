@@ -352,34 +352,53 @@ The analysis shows that a few high-cost items and suppliers contribute significa
 
 ## TASK 13
 ### Objective:
-Analyze the any dataset using Tableau Public and identify meaningful business insights without being given specific questions or charts.
+Analyze the any dataset using Tableau Public and identify meaningful business insights without being given specific questions or charts
+
+### Tableau Dashboard Link: 
+https://public.tableau.com/app/profile/lakshanyawanti.b/viz/task13_17936031418990/Dashboard1
+
+### Key Findings:
+1. Key Findings
+- Beverages and Pizza occupy the largest share in the treemap.
+- Delivery votes vary significantly across categories.
+- The heatmap shows differences in cuisine availability across cities.
+
+### 2. Suggestions
+- Promote less popular food categories.
+- Improve delivery services.
+- Expand cuisine options in cities with limited choices.
+  
+### 3. Recommendations
+- Focus on popular categories like Beverages and Pizza.
+- Use delivery votes to understand customer preferences.
+- Introduce diverse cuisines to attract more customers.
+
+### 4. Conclusion
+The dashboard highlights popular food categories, delivery voting patterns and cuisine distribution across different cities.
+
+## TASK 14
+### Objective:
+Connect a dataset, identify geographical fields such as country, state, city, or region to create a interactive map to analyze regional patterns and variation
 
 ### Tableau Dashboard Link:
-https://public.tableau.com/views/task13_17936018220490/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/task14_17936024876030/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### 1. Key Findings
 
 - Chennai has the highest number of restaurants.
-- Mumbai and Bangalore follow.
 - Higher-priced restaurants generally have better ratings.
 - Casual Dining and Quick Bites have high aggregate ratings.
 
-### 2. Conclusion
+
+### 2. Suggestions
+
+- Encourage customer feedback.
+- Focus on major cities like Chennai and Mumbai.
+  
+### 2. Overall Conclusion
 
 Restaurant distribution, pricing and ratings vary across cities and establishment types. Chennai is the leading restaurant market.
 
-### 3. Suggestions
-
-- Improve food quality and customer service.
-- Encourage customer feedback.
-- Offer affordable pricing.
-- Improve low-rated restaurants.
-
-### 4. Recommendations
-
-- Focus on major cities like Chennai and Mumbai.
-- Maintain consistent food quality.
-- Explore opportunities in cities with fewer restaurants.
 
 ## 🎯 Final Conclusion
 
